@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat" alt="suv00m" /> </p>
 
-- 🔭 I’m currently working on [Book Recommender system](https://suv00m-debut-brs-webpage-iud7ph.streamlit.app/)
+- 🔭 I’m currently worked on [sentiment analysis on thread](https://www.kaggle.com/code/shuvammandal121/sentiment-analysis-on-the-dataset)
 
 - 🌱 I’m currently learning **machine learning**
 
