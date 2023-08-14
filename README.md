@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shuvammandal121@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212/](https://www.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212/)
+- 📄 Know about my experiences [🎊-shuvam-mandal-🎊](https://www.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suv00m&" alt="suv00m" /></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="🎊-shuvam-mandal-🎊-02a18a212" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212?trk=profile-badge">🎊 Shuvam Mandal 🎊</a></div>
+
               
