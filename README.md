@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suv00m&show_icons=true&locale=en" alt="suv00m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suv00m&" alt="suv00m" /></p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="🎊-shuvam-mandal-🎊-02a18a212" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212?trk=profile-badge">🎊 Shuvam Mandal 🎊</a></div>
+              
