@@ -7,7 +7,7 @@
 
 ![Shuv😈](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shuvammandal121)
 
-- 🔭 I’m currently worked on [sentiment analysis on thread](https://www.kaggle.com/code/shuvammandal121/sentiment-analysis-on-the-dataset)
+- 🔭 I’m currently worked on [Train-Y](https://train-y.vercel.app/)
 
 - 🌱 I’m currently learning **machine learning**
 
