@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat" alt="suv00m" /> </p>
 
-![Shuv😈](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shuvammandal121)
-
 - 🔭 I’m currently working on [Test-ai]
 
 - 🌱 I’m currently learning **machine learning**
@@ -18,6 +16,10 @@
 - 📫 How to reach me **shuvammandal121@gmail.com**
 
 - 📄 Know about my experiences [🚀shuvam-mandal](https://www.linkedin.com/in/shuvam1/)
+
+- 🤗 huggingface :[Shuvam](https://huggingface.co/shuvom)
+
+- 🌐 visit my site : [Shuvam](https://shuvam.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +37,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suv00m&" alt="suv00m" /></p>
 
 <h3 align="left">Kaggle:</h3>
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shuvammandal121/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shuvammandal121/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shuvammandal121/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/shuvammandal121/discussion/light)
