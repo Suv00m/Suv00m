@@ -7,7 +7,7 @@
 
 ![Shuv😈](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shuvammandal121)
 
-- 🔭 I’m currently worked on [Train-Y](https://train-y.vercel.app/)
+- 🔭 I’m currently working on [Test-ai]
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shuvammandal121@gmail.com**
 
-- 📄 Know about my experiences [🎊-shuvam-mandal-🎊](https://www.linkedin.com/in/%F0%9F%8E%8A-shuvam-mandal-%F0%9F%8E%8A-02a18a212/)
+- 📄 Know about my experiences [🚀shuvam-mandal](https://www.linkedin.com/in/shuvam1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
