@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suv00m&show_icons=true&locale=en" alt="suv00m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suv00m&" alt="suv00m" /></p>
-
-<h3 align="left">Kaggle:</h3>
