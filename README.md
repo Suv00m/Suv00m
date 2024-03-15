@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat" alt="suv00m" /> </p>
 
+- 💪🏻 Data science intern @ videodubber.ai
+  
 - 🔭 I’m currently working on [Test-ai]
 
 - 🌱 I’m currently learning **machine learning**
