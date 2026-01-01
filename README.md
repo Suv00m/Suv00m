@@ -1,41 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shuvam Mandal</h1>
-<h3 align="center">A machine learning engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Shuvom Mandal</h1>
+<h3 align="center">Tech Cofounder· AI Systems Builder · India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat" alt="suv00m" /> </p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-- cofounder @ [hooked](https://thehooked.co/)
-  
-- ex 💪🏻 Data science intern @ videodubber.ai
-  
-- 🔭 I’m currently working on [Test-ai]
+### 👨‍💻 About Me
+- 🚀 Co-founder @ **[BeHooked.co](https://behooked.co)**
+- 🧠 Ex Data Science @ **videodubber.ai**
+- 🔬 Focused on **Machine Learning, AI Systems & Applied Research**
+- 🛠 Building production-grade AI products
+- 💬 Ask me about **ML, AI, backend systems, infra**
+- 📫 Reach me at **shuvom@behooked.co**
 
-- 🌱 I’m currently learning **machine learning**
+### 🌐 Profiles
+- 🧑‍💻 GitHub: [github.com/Suv00m](https://github.com/Suv00m)
+- 💼 LinkedIn: [shuvam-mandal](https://www.linkedin.com/in/shuvam1/)
+- 🤗 Hugging Face: [shuvom](https://huggingface.co/shuvom)
+- 🌍 Website: [shuvid.vercel.app](https://shuvid.vercel.app)
 
-- 👨‍💻 All of my projects are available at [www.github.com/Suv00m](www.github.com/Suv00m)
-
-- 💬 Ask me about **machine learning, AI**
-
-- 📫 How to reach me **shuvammandal121@gmail.com**
-
-- 📄 Know about my experiences [🚀shuvam-mandal](https://www.linkedin.com/in/shuvam1/)
-
-- 🤗 huggingface :[Shuvam](https://huggingface.co/shuvom)
-
-- 🌐 visit my site : [Shuvam](https://shuvam.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/00_shuv_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="00_shuv_00" height="30" width="40" /></a>
-<a href="https://kaggle.com/shuvam mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvam mandal" height="30" width="40" /></a>
+### 🔗 Connect
+<p>
+  <a href="https://twitter.com/00_shuv_00">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
+  </a>
+  <a href="https://kaggle.com/shuvam mandal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  </td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suv00m&show_icons=true&locale=en&layout=compact" alt="suv00m" /></p>
+  <td width="45%" align="center">
+    <img 
+      src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"
+      width="380"
+      alt="coding gif"
+    />
+    <br /><br />
+    <img 
+      src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat"
+      alt="profile views"
+    />
+  </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suv00m&show_icons=true&locale=en" alt="suv00m" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suv00m&" alt="suv00m" /></p>
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
+</p>
+
+---
+
+### 📊 Activity
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=86065641">
+    <img 
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=86065641&image_size=auto&color_scheme=dark"
+      width="90%"
+      alt="OSS Insight Stats"
+    />
+  </a>
+</p>
