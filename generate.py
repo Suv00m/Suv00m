@@ -35,18 +35,18 @@ RAMP = "@%#*+=-:. "  # darkest -> lightest
 TITLE = "shuvom@mandal"
 
 INFO = [
-    ("OS", "Ex CTO @ BeHooked.ai"),
-    ("Host", "India"),
-    ("Kernel", "AI Systems Builder"),
-    ("Uptime", "Ex Data Science @ videodubber.ai"),
+    ("Role", "Ex CTO @ BeHooked.ai"),
+    ("Location", "India"),
+    ("Focus", "AI Systems Builder"),
+    ("Experience", "Ex Data Science @ videodubber.ai"),
     ("Languages", "Python · C"),
     ("ML", "scikit-learn · TensorFlow · PyTorch"),
     ("Data", "NumPy · pandas · Matplotlib"),
     ("Tools", "Git · Docker"),
-    ("Terminal", "shuvam.in"),
+    ("Website", "shuvam.in"),
     ("GitHub", "github.com/Suv00m"),
     ("LinkedIn", "shuvam-mandal"),
-    ("HuggingFace", "shuvom"),
+    ("Hugging Face", "shuvom"),
     ("Contact", "shuvom@behooked.co"),
 ]
 
