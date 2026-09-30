@@ -12,15 +12,3 @@
 
 <br />
 
----
-
-### 📊 Activity
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=86065641">
-    <img 
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=86065641&image_size=auto&color_scheme=dark"
-      width="90%"
-      alt="OSS Insight Stats"
-    />
-  </a>
-</p>

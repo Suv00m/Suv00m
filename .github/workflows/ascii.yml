@@ -29,9 +29,11 @@ jobs:
           python-version: "3.x"
 
       - name: Install deps
-        run: pip install pillow
+        run: pip install pillow requests
 
       - name: Generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate.py
 
       - name: Commit changes

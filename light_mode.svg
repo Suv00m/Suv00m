@@ -64,5 +64,14 @@
     <tspan x="781" y="314" fill="#8250df">███</tspan>
     <tspan x="812" y="314" fill="#bf3989">███</tspan>
     <tspan x="843" y="314" fill="#57606a">███</tspan>
+    <tspan x="628.0" y="340" class="title">activity</tspan><tspan x="714" y="340" class="cc">──────────────────────</tspan>
+    <tspan x="628.0" y="360" class="cc">. repos        :    31  </tspan><tspan class="key">████████████</tspan>
+    <tspan x="628.0" y="380" class="cc">. followers    :     3  </tspan><tspan class="key">█</tspan>
+    <tspan x="628.0" y="400" class="cc">. following    :     2  </tspan><tspan class="key">█</tspan>
+    <tspan x="628.0" y="420" class="cc">. gists        :     0  </tspan><tspan class="key"></tspan>
+    <tspan x="628.0" y="440" class="cc">. stars        :    13  </tspan><tspan class="key">█████</tspan>
+    <tspan x="628.0" y="460" class="cc">. starred      :    41  </tspan><tspan class="key">████████████████</tspan>
+    <tspan x="628.0" y="480" class="cc">. pull requests:     4  </tspan><tspan class="key">██</tspan>
+    <tspan x="628.0" y="500" class="cc">. issues       :     2  </tspan><tspan class="key">█</tspan>
   </text>
 </svg>
