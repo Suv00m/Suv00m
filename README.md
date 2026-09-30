@@ -12,36 +12,6 @@
 
 <br />
 
-### 👨‍💻 About Me
-- 🚀 Ex CTO @ **[BeHooked.ai](https://behooked.ai)**
-- 🧠 Ex Data Science @ **videodubber.ai**
-- 🔬 Focused on **Machine Learning, AI Systems & Applied Research**
-- 🛠 Building production-grade AI products
-- 💬 Ask me about **ML, AI, backend systems, infra**
-- 📫 Reach me at **shuvom@behooked.co**
-
-### 🌐 Profiles
-- 🧑‍💻 GitHub: [github.com/Suv00m](https://github.com/Suv00m)
-- 💼 LinkedIn: [shuvam-mandal](https://www.linkedin.com/in/shuvam1/)
-- 🤗 Hugging Face: [shuvom](https://huggingface.co/shuvom)
-- 🌍 Website: [shuvam.in](https://shuvam.in)
-
-### 🔗 Connect
-<p align="left">
-  <a href="https://twitter.com/00_shuv_00">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X / Twitter"/>
-  </a>
-  <a href="https://www.kaggle.com/shuvammandal">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28" alt="Kaggle"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shuvam1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/shuvom">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face"/>
-  </a>
-</p>
-
 ---
 
 ### 🧰 Languages & Tools
