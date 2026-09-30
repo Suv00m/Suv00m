@@ -12,10 +12,6 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
 ### 👨‍💻 About Me
 - 🚀 Ex CTO @ **[BeHooked.ai](https://behooked.ai)**
 - 🧠 Ex Data Science @ **videodubber.ai**
@@ -45,23 +41,6 @@
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face"/>
   </a>
 </p>
-
-  </td>
-
-  <td width="45%" align="center">
-    <img 
-      src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"
-      width="380"
-      alt="coding gif"
-    />
-    <br /><br />
-    <img 
-      src="https://komarev.com/ghpvc/?username=suv00m&label=Profile%20views&color=0e75b6&style=flat"
-      alt="profile views"
-    />
-  </td>
-  </tr>
-</table>
 
 ---
 
