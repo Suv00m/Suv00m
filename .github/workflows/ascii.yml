@@ -1,0 +1,43 @@
+name: Regenerate ASCII art
+
+on:
+  push:
+    paths:
+      - "assets/avatar.png"
+      - "generate.py"
+      - ".github/workflows/ascii.yml"
+  schedule:
+    - cron: "0 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download avatar
+        run: |
+          mkdir -p assets
+          curl -sL "https://github.com/${{ github.repository_owner }}.png?size=460" -o assets/avatar.png
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install pillow
+
+      - name: Generate SVGs
+        run: python generate.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/avatar.png light_mode.svg dark_mode.svg
+          git diff --cached --quiet || git commit -m "chore: regenerate ASCII art"
+          git push

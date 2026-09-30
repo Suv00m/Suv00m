@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1220px" height="660px" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16px">
+  <style>
+    text { white-space: pre; }
+    .art { fill: #24292f; }
+    .title { fill: #24292f; font-weight: 700; }
+    .key { fill: #953800; }
+    .value { fill: #0a3069; }
+    .cc { fill: #8c959f; }
+  </style>
+  <rect width="1220px" height="660px" fill="#f6f8fa" rx="12"/>
+  <text x="16" y="30" class="art">
+    <tspan x="16" y="30">##*: :-::.</tspan>
+    <tspan x="16" y="50">.....==--:</tspan>
+    <tspan x="16" y="70">   .+##*+=:.</tspan>
+    <tspan x="16" y="90">   .*#**++==::. ....                  ....</tspan>
+    <tspan x="16" y="110">    *#*****+-:.      ...         ..........                .</tspan>
+    <tspan x="16" y="130">   .*#####***+=-:..................                  ....  :</tspan>
+    <tspan x="16" y="150">   :*%%##*****+----==------::...               ......:.:. .-</tspan>
+    <tspan x="16" y="170">   :#%%%%*+=#%*. .:-=****+=-:...           ........:::::. .:</tspan>
+    <tspan x="16" y="190">   -%%%@%%%%%#*=---:-*#%##*-:::...   --   .:. ....::::::. .:</tspan>
+    <tspan x="16" y="210">   =%%@@@@@%%%##*+++*#%##*+---::..  .--...:::::::----:::...:</tspan>
+    <tspan x="16" y="230">   #%%@@@@%%%%%%########*+=-----:......:::::::-------:::..::</tspan>
+    <tspan x="16" y="250">  :%%@@@@%%%%##########*+=--=-----::::::::-----------:::.:--</tspan>
+    <tspan x="16" y="270">  :%%@@@@%%%%%#######**+=-----------::::::----===-----:::==-</tspan>
+    <tspan x="16" y="290">  :%%%@@@@@@%%#######*+=-----------:::::----====------:.:-==</tspan>
+    <tspan x="16" y="310">  .#%%@@@@@%%%#***#*++=-----------::::::---==---------::---=</tspan>
+    <tspan x="16" y="330">   +%%%%@@%%##*+#%#+====----------:...:::-----------::..----</tspan>
+    <tspan x="16" y="350">   -%%%%%%%%###%%%#*+===--:------:::....::--------::::...::-</tspan>
+    <tspan x="16" y="370">   :#%##%#%####***====--::::.....:::::..:::::---:::::.......</tspan>
+    <tspan x="16" y="390">   .+%%%%%%#*-::--:..  ....       .......:::::::::::..:-....</tspan>
+    <tspan x="16" y="410">   .:#%%####+===++=-::::.....           ..::::::::::   :.</tspan>
+    <tspan x="16" y="430">:::::=############*+==--:::.........     .:::::::::..</tspan>
+    <tspan x="16" y="450">::::::-####%#%%%%#**++---:::::::::::::....::::::::. ..::::::</tspan>
+    <tspan x="16" y="470">....:. :+*##%%%%%#*+==---::::::::::-::::::::::::..       ...</tspan>
+    <tspan x="16" y="490">...:.    -+*#%%%%%#*+-::..  ....:::::::::::::...</tspan>
+    <tspan x="16" y="510">:::. ..  .:-+*#%%%##*++--....:::::--::::::....:...</tspan>
+    <tspan x="16" y="530">..  ::..  .:===+*****+=--:::::::::::::.....   -:-==-..</tspan>
+    <tspan x="16" y="550">.  :--:.  .:+%*=-====-:::.....::::....      .:-:-.:::...</tspan>
+    <tspan x="16" y="570">-.:=--:    .:+%%*=:::....    ..       ...  .::=:=: ...:-:.</tspan>
+    <tspan x="16" y="590">..===-:     ..-#%#=:..             .....   . .--:=-:-:::..:-</tspan>
+    <tspan x="16" y="610">:===---.     ..:=*=-::::.........:::....  ....=+-:-:-:::-==-</tspan>
+  </text>
+  <text x="628.0" y="30">
+    <tspan x="628.0" y="30" class="title">shuvom@mandal</tspan><tspan x="762" y="30" class="cc">────────────────────────────</tspan>
+    <tspan x="628.0" y="50" class="cc">. </tspan><tspan class="key">OS         </tspan><tspan class="cc">: </tspan><tspan class="value">Ex CTO @ BeHooked.ai</tspan>
+    <tspan x="628.0" y="70" class="cc">. </tspan><tspan class="key">Host       </tspan><tspan class="cc">: </tspan><tspan class="value">India</tspan>
+    <tspan x="628.0" y="90" class="cc">. </tspan><tspan class="key">Kernel     </tspan><tspan class="cc">: </tspan><tspan class="value">AI Systems Builder</tspan>
+    <tspan x="628.0" y="110" class="cc">. </tspan><tspan class="key">Uptime     </tspan><tspan class="cc">: </tspan><tspan class="value">Ex Data Science @ videodubber.ai</tspan>
+    <tspan x="628.0" y="130" class="cc">. </tspan><tspan class="key">Shell      </tspan><tspan class="cc">: </tspan><tspan class="value">Python, C</tspan>
+    <tspan x="628.0" y="150" class="cc">. </tspan><tspan class="key">Resolution </tspan><tspan class="cc">: </tspan><tspan class="value">ML · Applied Research · Infra</tspan>
+    <tspan x="628.0" y="170" class="cc">. </tspan><tspan class="key">Terminal   </tspan><tspan class="cc">: </tspan><tspan class="value">shuvam.in</tspan>
+    <tspan x="628.0" y="190" class="cc">. </tspan><tspan class="key">CPU        </tspan><tspan class="cc">: </tspan><tspan class="value">Machine Learning</tspan>
+    <tspan x="628.0" y="210" class="cc">. </tspan><tspan class="key">Memory     </tspan><tspan class="cc">: </tspan><tspan class="value">production-grade AI products</tspan>
+    <tspan x="628.0" y="230" class="cc">. </tspan><tspan class="key">GitHub     </tspan><tspan class="cc">: </tspan><tspan class="value">github.com/Suv00m</tspan>
+    <tspan x="628.0" y="250" class="cc">. </tspan><tspan class="key">LinkedIn   </tspan><tspan class="cc">: </tspan><tspan class="value">shuvam-mandal</tspan>
+    <tspan x="628.0" y="270" class="cc">. </tspan><tspan class="key">HuggingFace</tspan><tspan class="cc">: </tspan><tspan class="value">shuvom</tspan>
+    <tspan x="628.0" y="290" class="cc">. </tspan><tspan class="key">Contact    </tspan><tspan class="cc">: </tspan><tspan class="value">shuvom@behooked.co</tspan>
+    <tspan x="628" y="314" fill="#cf222e">███</tspan>
+    <tspan x="658" y="314" fill="#bc4c00">███</tspan>
+    <tspan x="689" y="314" fill="#6e7781">███</tspan>
+    <tspan x="720" y="314" fill="#1a7f37">███</tspan>
+    <tspan x="751" y="314" fill="#0969da">███</tspan>
+    <tspan x="781" y="314" fill="#8250df">███</tspan>
+    <tspan x="812" y="314" fill="#bf3989">███</tspan>
+    <tspan x="843" y="314" fill="#57606a">███</tspan>
+  </text>
+</svg>
